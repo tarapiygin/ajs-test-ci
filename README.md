@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x3uk14ai08tbh10u/branch/master?svg=true)](https://ci.appveyor.com/project/tarapiygin/ajs-homeworks-test-ci-1/branch/master)
